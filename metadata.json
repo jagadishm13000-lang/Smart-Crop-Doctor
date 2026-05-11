@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Remix: Smart Crop Doctor",
+  "description": "A futuristic AI-powered agriculture platform for intelligent crop disease detection and sustainable farming insights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
